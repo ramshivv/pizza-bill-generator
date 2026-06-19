@@ -62,7 +62,7 @@ public class Main {
             } else {
                 sc.next(); // Clear invalid input token
             }
-            System.out.println("❌ Invalid input! Please enter a valid number between " + min + " and " + max + ".");
+            System.out.println("Invalid input! Please enter a valid number between " + min + " and " + max + ".");
         }
     }
 }
